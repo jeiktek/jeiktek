@@ -1,11 +1,6 @@
-# 🎸 👋🏼 Hola mi nombre es Jacobo Bernal.
+<div align="center">
 
-**`Full-Stack Mad Coder (Developer/Filmmaker/Creator)`**
-
-![https://github.com/simplewtech](./banner_simplewtech.png)
-
-Soy estudiante de ingeniería de software y electrónica. creo contenido sobre programación, WEB Arduino y más. todo el código y los tutoriales es gratuito, y está pensado para ayudar y crear comunidad. Todos los tutoriales y el contenido principal esta en mi canal de YouTube "Simple Web Code”.
-espero que te sirva todo el contenido que encuentres. Nos vemos ahí
+# JeikTek
 
 <p align="left">
       <a href="https://www.youtube.com/@simplewebcode?sub_confirmation=1">
@@ -18,17 +13,59 @@ espero que te sirva todo el contenido que encuentres. Nos vemos ahí
          <img alt="total stars" title="Stars GitHub" src="https://custom-icon-badges.demolab.com/github/stars/simplewtech?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
+> Technical founder
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=jeiktek&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F162149147%3Fu%3D840f2ef202d95385421272d997969fb2101a9b3d%26v%3D4" alt="jeiktek hero visual" />
+</p>
+</div>
+
 ---
 
-### 🧰 Tecnologías
-#
+## 👋 Hey, I'm Jacobo
+
+I'm a Computer Science student and software developer with professional
+experience building websites and applications.
+
+I've mainly worked with:
+
+**PHP · Laravel · JavaScript · HTML · CSS · MySQL**
+
+I'm passionate about technology, software development, hardware,
+artificial intelligence, robotics, and learning how things work.
+
+Outside of technology, I enjoy **music, video games, and sports**.
+
+---
+
+## 🚀 What I Do
+
+I like learning, experimenting, and turning ideas into real projects.
+
+- 💻 Software development
+- 🌐 Web development
+- 🧠 Artificial intelligence
+- 🤖 Robotics
+- ⚙️ Hardware & technology
+- 🧪 Experiments and personal projects
+
+---
+
+## 🛠️ Technologies
+### Languages
 [![My Skills](https://skillicons.dev/icons?i=arduino,bash,md,php,laravel)](https://skillicons.dev)
-#
+### Frameworks
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,astro)](https://skillicons.dev)
-#
-[![My Skills](https://skillicons.dev/icons?i=apple,windows,postman,git,github,netlify,docker)](https://skillicons.dev)
+### Databases & Tools
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,apple,windows,postman,git,github,netlify,docker)](https://skillicons.dev)
 
 #
+
+## 🔴 JeikTek
+
+**JeikTek is my space to share what I know, what I'm learning,
+and the projects I'm building while continuing to explore
+everything technology has to offer.**
 
 ### 📺 Ultimos videos en YouTube
 
@@ -42,3 +79,11 @@ espero que te sirva todo el contenido que encuentres. Nos vemos ahí
 <!-- END YOUTUBE-CARDS -->
 
 #
+
+<div align="center">
+
+### Thanks for stopping by. 👋
+
+**JEIKTEK**
+
+</div>
