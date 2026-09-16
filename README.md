@@ -3,14 +3,14 @@
 # JeikTek
 
 <p align="left">
-      <a href="https://www.youtube.com/@simplewebcode?sub_confirmation=1">
+      <a href="https://www.youtube.com/@jeiktek?sub_confirmation=1">
          <img alt="suscriptores youtube" title="Suscribete a mi canal de YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCQsQh4t3TcIMkIVpfaa0MsA?color=%23E05D44&label=SUBSCRIBETE&logo=video&logoColor=white&style=for-the-badge&labelColor=4C585B"/></a>
-      <a href="https://www.youtube.com/@simplewebcode">
+      <a href="https://www.youtube.com/@jeiktek">
          <img alt="youtube views" title="YouTube Vistas" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCQsQh4t3TcIMkIVpfaa0MsA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=4C585B"/></a>
-      <a href="https://github.com/simplewtech?tab=followers">
-         <img alt="followers" title="Sigueme en Github" src="https://custom-icon-badges.demolab.com/github/followers/simplewtech?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=SIGUEME&logoColor=white"/></a>
-      <a href="https://github.com/simplewtech?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Stars GitHub" src="https://custom-icon-badges.demolab.com/github/stars/simplewtech?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://github.com/jeiktek?tab=followers">
+         <img alt="followers" title="Sigueme en Github" src="https://custom-icon-badges.demolab.com/github/followers/jeiktek?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=SIGUEME&logoColor=white"/></a>
+      <a href="https://github.com/jeiktek?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Stars GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jeiktek?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
 > Technical founder
