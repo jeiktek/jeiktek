@@ -1,9 +1,11 @@
 <div align="center">
 
-# JeikTek
+## 👋 Hey, I'm Jacob
 
 <p align="left">
       <a href="https://www.youtube.com/@jeiktek?sub_confirmation=1">
+<p align="center">
+      <a href="https://www.youtube.com/@simplewebcode?sub_confirmation=1">
          <img alt="suscriptores youtube" title="Suscribete a mi canal de YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCQsQh4t3TcIMkIVpfaa0MsA?color=%23E05D44&label=SUBSCRIBETE&logo=video&logoColor=white&style=for-the-badge&labelColor=4C585B"/></a>
       <a href="https://www.youtube.com/@jeiktek">
          <img alt="youtube views" title="YouTube Vistas" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCQsQh4t3TcIMkIVpfaa0MsA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=4C585B"/></a>
@@ -13,16 +15,12 @@
          <img alt="total stars" title="Stars GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jeiktek?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
-> Technical founder
-
 <p align="center">
   <img src="/Banner-github.png" alt="jeiktek hero visual" />
 </p>
 </div>
 
----
-
-## 👋 Hey, I'm Jacobo
+#
 
 I'm a Computer Science student and software developer with professional
 experience building websites and applications.
