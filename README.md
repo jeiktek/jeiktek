@@ -2,6 +2,15 @@
 
 ## 👋 Hey, I'm Jacob
 
+[![website](./img/youtube-light.svg)](https://youtube.com/jeiktek#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/jeiktek#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/jeiktek#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/jeiktek#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/github-light.svg)](https://github.com/jeiktek#gh-light-mode-only)
+[![website](./img/github-dark.svg)](https://github.com/jeiktek#gh-dark-mode-only)
+
 <p align="left">
       <a href="https://www.youtube.com/@jeiktek?sub_confirmation=1">
 <p align="center">
@@ -16,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="/Banner-github.png" alt="jeiktek hero visual" />
+  <img src="img/Banner-github.png" alt="jeiktek hero visual" />
 </p>
 </div>
 
