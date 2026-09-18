@@ -11,8 +11,6 @@
 [![website](./img/github-light.svg)](https://github.com/jeiktek#gh-light-mode-only)
 [![website](./img/github-dark.svg)](https://github.com/jeiktek#gh-dark-mode-only)
 
-<p align="left">
-      <a href="https://www.youtube.com/@jeiktek?sub_confirmation=1">
 <p align="center">
       <a href="https://www.youtube.com/@jeiktek?sub_confirmation=1">
          <img alt="suscriptores youtube" title="Suscribete a mi canal de YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCQsQh4t3TcIMkIVpfaa0MsA?color=%23E05D44&label=SUBSCRIBETE&logo=video&logoColor=white&style=for-the-badge&labelColor=4C585B"/></a>
